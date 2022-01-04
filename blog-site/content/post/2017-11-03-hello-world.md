@@ -20,4 +20,9 @@ categories: [ Strategy ]
 > “Yeah It's on. ”
 
 
-## Hello World!
+
+##### Original Post
+
+* Originally posted at [ Blogspot ]( ) on {{< param date >}}
+
+
