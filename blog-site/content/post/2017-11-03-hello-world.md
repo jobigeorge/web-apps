@@ -1,11 +1,20 @@
 ---
-layout:     post 
-title:      "Welcome to Zhaohuabing Blog"
-subtitle:   "Hello World, Hello Blog"
-date:       2020-11-04
-author:     "赵化冰"
-URL: "/2017/11/03/hello-world/"
-image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
+layout:     post
+title:      "aa"
+subtitle:   ""
+description: ""
+excerpt: ""
+date:       2005-06-01 11:37:00
+author:     "Jobi George"
+image:     "static/img/grey-transparent.jpg"
+published: true
+showtoc: false 
+tags:
+    - HTML
+    - AJAX
+    - WEB
+URL: "/2005/06/02/tibco-general-interface3/"
+categories: [ Strategy ]
 ---
 
 > “Yeah It's on. ”
