@@ -8,7 +8,7 @@ excerpt: "Kubernets 1.9版本引入了Admission Webhook(web 回调)扩展机制�
 date:    2018-05-23
 author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/2018-4-25-istio-auto-injection-with-webhook/lion.jpg"
-published: true 
+published: false 
 tags:
     - Kubernetes
     - Istio
@@ -89,11 +89,11 @@ kubectl -n istio-system get deployment -listio=sidecar-injector
 Copy
 NAME                     DESIRED   CURRENT   UP-TO-DATE   AVAILABLE   AGE
 istio-sidecar-injector   1         1         1            1           1d
-```
+
 
 ### 开启需要自动注入sidecar的namespace 
 
-```
+
 kubectl label namespace default istio-injection=enabled
 
 kubectl get namespace -L istio-injection
@@ -103,9 +103,19 @@ default        Active    1h        enabled
 istio-system   Active    1h        
 kube-public    Active    1h        
 kube-system    Active    1h  
-```
+
 
 ## 参考
 
 * [Extensible Admission is Beta](https://kubernetes.io/blog/2018/01/extensible-admission-is-beta)
 * [Installing the Istio Sidecar](https://istio.io/docs/setup/kubernetes/sidecar-injection.html)
+
+````
+
+
+[Scrooge Coin]("https://img.zhaohuabing.com/in-post/2018-5-20-cryptocurrency_week1_scroogecoin/scroogecoin.png")
+
+
+
+
+
