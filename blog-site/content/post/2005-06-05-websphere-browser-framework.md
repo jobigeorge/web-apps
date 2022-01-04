@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 excerpt: ""
 date:       2005-06-05 11:00:01
-author:     "Jobi George"
+author:     " Jobi George"
 image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: false 

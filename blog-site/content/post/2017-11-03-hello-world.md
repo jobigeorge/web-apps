@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 excerpt: ""
 date:       2005-06-01 11:37:00
-author:     "Jobi George"
+author:     " Jobi George"
 image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: false 
@@ -14,7 +14,7 @@ tags:
     - AJAX
     - WEB
 URL: "/2005/06/02/tibco-general-interface3/"
-categories: [ Strategy ]
+categories: [ Business ]
 ---
 
 > “Yeah It's on. ”

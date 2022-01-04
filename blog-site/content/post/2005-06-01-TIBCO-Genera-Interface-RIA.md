@@ -5,7 +5,7 @@ subtitle:   ""
 description: ""
 excerpt: "Rich Internet Applications"
 date:       2005-06-01 11:37:00
-author:     "Jobi George"
+author:     " Jobi George"
 image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: false 
