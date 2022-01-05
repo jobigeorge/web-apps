@@ -58,7 +58,7 @@ home = ["HTML", "RSS", "Algolia"]
   # reward_guide = "" 
 
   friends = false
-  bookmarks = true
+  bookmarks = false
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
