@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/blog-background.jpeg"
   SEOTitle = "Jobi George Blog"
   description = "Tech, Business, Strategy"
   keyword = "Blog, Web, Strategy, Software, SaaS, Cloud, Startup, Partnerships,Biology"
