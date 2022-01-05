@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on Jobi George Blog</title>
+    <link>https://jobigeorge.com/tags/iot/</link>
+    <description>Recent content in IoT on Jobi George Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Dec 2010 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Meshcentral.com</title>
+      <link>https://jobigeorge.com/2010/12/14/meshcentral/</link>
+      <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.com/2010/12/14/meshcentral/</guid>
+      <description>MeshCentral is an experimental service from Intel Software and Services Group. The service concept is brain child of brilliant researcher Ylian Saint-Hilaire. I joined Yllian early this year as the business guy to bring MESHCentral technologies to market. In nutshell MeshCentral is a very simple concept of allowing easier/scalable (P2P) way to connect edge nodes (PC, embedded CE, routers etc..) to Cloud Services that allow secure discovery with ability to send authorized events and deliver secure control messages.</description>
+    </item>
+    
+  </channel>
+</rss>

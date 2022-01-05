@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverless on Jobi George Blog</title>
+    <link>https://jobigeorge.com/tags/serverless/</link>
+    <description>Recent content in Serverless on Jobi George Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2005 11:00:01 +0000</lastBuildDate><atom:link href="https://jobigeorge.com/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> WebSphere Browser Framework and Faces Client</title>
+      <link>https://jobigeorge.com/2005/06/02/websphere-browser-framework/</link>
+      <pubDate>Sun, 05 Jun 2005 11:00:01 +0000</pubDate>
+      
+      <guid>https://jobigeorge.com/2005/06/02/websphere-browser-framework/</guid>
+      <description>WebSphere Browser Framework (now called Faces Client) for WebSphere Studio provides a set of JSF based U/I Controls and Data Emitters for doing Rich browser applications without server round trips. It provided client-side processing coupled with a client-side data model to reduce server and network loads and user wait times. The result: richly interactive Web applications utilizing JavaScript for client-side processing and data structuring without browser or client upgrades.
+A key Browser Framework component is its structured data model that supports dynamic data manipulation &amp;ndash; meaning that data could be lately bounded and can be manipulated on the client, either by the user or through a Web service or other Web-based update mechanisms, without a page-refresh.</description>
+    </item>
+    
+  </channel>
+</rss>

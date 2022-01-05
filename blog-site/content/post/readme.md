@@ -4,7 +4,7 @@ title:      "Clean White Theme for Hugo"
 subtitle:   "How to set up this theme"
 date:       2019-02-09
 author:     "赵化冰"
-published:  false
+published:  true
 image:      "https://img.zhaohuabing.com/post-bg-2015.jpg"
 ---
 
