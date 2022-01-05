@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>opensource on Jobi George Blog</title>
-    <link>https://jobigeorge.com/tags/opensource/</link>
+    <link>https://jobigeorge.netlify.app/tags/opensource/</link>
     <description>Recent content in opensource on Jobi George Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Nov 2006 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.com/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2006 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How IBM leverages Open Source</title>
-      <link>https://jobigeorge.com/2006/11/28/ibm-opensource/</link>
+      <link>https://jobigeorge.netlify.app/2006/11/28/ibm-opensource/</link>
       <pubDate>Tue, 28 Nov 2006 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2006/11/28/ibm-opensource/</guid>
+      <guid>https://jobigeorge.netlify.app/2006/11/28/ibm-opensource/</guid>
       <description>Dana Blankenhorn recently blogged about IBMs reaction to Sun’s Java plan and their approach to open source ecosystem. I think Dana summarizes it very well. IBM believes Open Source is a great technology floor on which others and even IBM builds. But as Dana points out, it is naive to treat IBM a Solutions and Services company with rest of the software industry players who are primarily software vendors like Oracle, SAP, RedHat and Microsoft.</description>
     </item>
     

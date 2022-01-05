@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML on Jobi George Blog</title>
-    <link>https://jobigeorge.com/tags/html/</link>
+    <link>https://jobigeorge.netlify.app/tags/html/</link>
     <description>Recent content in HTML on Jobi George Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2010 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2010 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Meshcentral.com</title>
-      <link>https://jobigeorge.com/2010/12/14/meshcentral/</link>
+      <link>https://jobigeorge.netlify.app/2010/12/14/meshcentral/</link>
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2010/12/14/meshcentral/</guid>
+      <guid>https://jobigeorge.netlify.app/2010/12/14/meshcentral/</guid>
       <description>MeshCentral is an experimental service from Intel Software and Services Group. The service concept is brain child of brilliant researcher Ylian Saint-Hilaire. I joined Yllian early this year as the business guy to bring MESHCentral technologies to market. In nutshell MeshCentral is a very simple concept of allowing easier/scalable (P2P) way to connect edge nodes (PC, embedded CE, routers etc..) to Cloud Services that allow secure discovery with ability to send authorized events and deliver secure control messages.</description>
     </item>
     
     <item>
       <title>Sun Microsystems to sell &#39;virtual&#39; Windows PCs </title>
-      <link>https://jobigeorge.com/2008/03/11/sun-virtualpc/</link>
+      <link>https://jobigeorge.netlify.app/2008/03/11/sun-virtualpc/</link>
       <pubDate>Tue, 11 Mar 2008 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2008/03/11/sun-virtualpc/</guid>
+      <guid>https://jobigeorge.netlify.app/2008/03/11/sun-virtualpc/</guid>
       <description>Now who would have thought Sun would go to this length. But this shows the new found maturity and the savviness of the young CEO. Sun now with acquisition is able to provide a good stack for hosted desktop solution.
  Sun Microsystems plans to introduce software and hardware to create &amp;ldquo;virtual&amp;rdquo; Windows and Linux personal computers that can be accessed via desktop machines, laptops and cell phones.&amp;ldquo;We are going to announce (it) soon,&amp;rdquo; said Steve Wilson, a Sun vice president involved in the project.</description>
     </item>
     
     <item>
       <title>Announcing SuiteTwo.com - An enterprise 2.0 solution powered by Intel</title>
-      <link>https://jobigeorge.com/2006/11/07/suitetwo-intel/</link>
+      <link>https://jobigeorge.netlify.app/2006/11/07/suitetwo-intel/</link>
       <pubDate>Tue, 07 Nov 2006 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2006/11/07/suitetwo-intel/</guid>
+      <guid>https://jobigeorge.netlify.app/2006/11/07/suitetwo-intel/</guid>
       <description>Today Intel is announcing the launch of SuiteTwo.com – a collection of web2.0 stack which is jointly developed by leading web2.0 players that include – MOVABLETYPE, SimpleFeed, Socialtext, Newsgator and Spikesource. We are announcing this at the currently ongoing Tim O’Reilly web2.0 conference at San Francisco, CA. SuiteTwo is a rich set of interconnected services that combine to improve productivity and enable high-engagement marketing. SuiteTwo includes the most trusted platforms for blogs, wikis, RSS feed reading, and RSS feed management, all under a single management interface.</description>
     </item>
     
     <item>
       <title>Why is Scheduling Still So Damn Hard?</title>
-      <link>https://jobigeorge.com/2005/08/18/scheduling-so-hard/</link>
+      <link>https://jobigeorge.netlify.app/2005/08/18/scheduling-so-hard/</link>
       <pubDate>Thu, 18 Aug 2005 14:30:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/08/18/scheduling-so-hard/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/08/18/scheduling-so-hard/</guid>
       <description>Stephen recently wrote
  What I would love is to be able to offer - selectively or publicly - visibility into my calendar, with ACL based write access that&amp;rsquo;s easy enough for anyone to use. The sheer amount of time this would save come conference time, when 10&amp;rsquo;s or 100&amp;rsquo;s of people are asking for time with us, would be worth its weight in gold. It would allow us to push the burden of scheduling onto those who request our time.</description>
     </item>
     
     <item>
       <title>Plazes: Simple Solution to a really difficult problem</title>
-      <link>https://jobigeorge.com/2005/06/02/plazes-location-app/</link>
+      <link>https://jobigeorge.netlify.app/2005/06/02/plazes-location-app/</link>
       <pubDate>Thu, 04 Aug 2005 14:30:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/06/02/plazes-location-app/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/06/02/plazes-location-app/</guid>
       <description>Simple Solution to a really difficult problem Checkout : http://beta.plazes.com/home/
 Plazes is a grassroot approach to location-aware interaction, using the local network you are connected to as location reference. Plazes allows you to share you location with the people you know and to discover people and plazes around you.
 Plaze = Location + Context:
@@ -59,30 +59,30 @@ A Plaze is a physical location with a local network - private or public, wired o
     
     <item>
       <title>Amazon files for Web services patent</title>
-      <link>https://jobigeorge.com/2005/06/02/amazon-patent-webservices/</link>
+      <link>https://jobigeorge.netlify.app/2005/06/02/amazon-patent-webservices/</link>
       <pubDate>Thu, 04 Aug 2005 11:30:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/06/02/amazon-patent-webservices/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/06/02/amazon-patent-webservices/</guid>
       <description>I think this is a very key patent to their approach in creating a marketplace for WebServices. Also tied in with their A9 efforts one can now not only search for the third party WebServices but also bind dynamically and pay to consume and disconnect.
 Amazon.com has received a public airing of its patent application for an online marketplace where consumers search and pay for Web services. The patent application, filed last year and published Thursday by the U.</description>
     </item>
     
     <item>
       <title>How to Stop Worrying and Learn to Love the Internet</title>
-      <link>https://jobigeorge.com/2005/06/23/stop-worrying-and-love/</link>
+      <link>https://jobigeorge.netlify.app/2005/06/23/stop-worrying-and-love/</link>
       <pubDate>Thu, 23 Jun 2005 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/06/23/stop-worrying-and-love/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/06/23/stop-worrying-and-love/</guid>
       <description>Douglas Adams, from the Hitchhikers fame wrote this in 1999. Still so relevant. I had a chance to listen to him in the closing keynote at JavaOne in 1999, such a great talk makes you sit back and think of perspectives not just on technology. I recommend reading the whole article. Here are some excerpts -
  I suppose earlier generations had to sit through all this huffing and puffing with the invention of television, the phone, cinema, radio, the car, the bicycle, printing, the wheel and so on, but you would think we would learn the way these things work, which is this:</description>
     </item>
     
     <item>
       <title>Rich Internet Application Framework from Backbase</title>
-      <link>https://jobigeorge.com/2005/06/02/tibco-general-interface3/</link>
+      <link>https://jobigeorge.netlify.app/2005/06/02/tibco-general-interface3/</link>
       <pubDate>Sun, 12 Jun 2005 11:00:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/06/02/tibco-general-interface3/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/06/02/tibco-general-interface3/</guid>
       <description>“Rich apps changing the internet”
  Just ran across Backbase (http://www.backbase.com) a well designed thin script based U/I development framework. It uses an XML-based User Interface language and leverages XHTML, CSS and DOM. It requires no install /plugin/java/Flash and yet are very powerful. It also seem to work fine in IE and Firefox.
 They use AJAX patterns heavily and leverage the browser XML namespace support.
@@ -91,20 +91,20 @@ Demos -  Shoping - New way to shop Portal - A new way to do responsive Portlets 
     
     <item>
       <title> WebSphere Browser Framework and Faces Client</title>
-      <link>https://jobigeorge.com/2005/06/02/websphere-browser-framework/</link>
+      <link>https://jobigeorge.netlify.app/2005/06/02/websphere-browser-framework/</link>
       <pubDate>Sun, 05 Jun 2005 11:00:01 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/06/02/websphere-browser-framework/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/06/02/websphere-browser-framework/</guid>
       <description>WebSphere Browser Framework (now called Faces Client) for WebSphere Studio provides a set of JSF based U/I Controls and Data Emitters for doing Rich browser applications without server round trips. It provided client-side processing coupled with a client-side data model to reduce server and network loads and user wait times. The result: richly interactive Web applications utilizing JavaScript for client-side processing and data structuring without browser or client upgrades.
 A key Browser Framework component is its structured data model that supports dynamic data manipulation &amp;ndash; meaning that data could be lately bounded and can be manipulated on the client, either by the user or through a Web service or other Web-based update mechanisms, without a page-refresh.</description>
     </item>
     
     <item>
       <title>TIBCO General Interface (RIA)</title>
-      <link>https://jobigeorge.com/2005/06/02/tibco-general-interface/</link>
+      <link>https://jobigeorge.netlify.app/2005/06/02/tibco-general-interface/</link>
       <pubDate>Wed, 01 Jun 2005 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.com/2005/06/02/tibco-general-interface/</guid>
+      <guid>https://jobigeorge.netlify.app/2005/06/02/tibco-general-interface/</guid>
       <description>Check out Jon Udell&amp;rsquo;s screencast showing a demo of the TIBCO General Interface, a JavaScript/DHTML framework for building Internet Apps.
   Blog 
   Screencast:  (8 mins.)
