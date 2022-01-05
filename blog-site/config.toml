@@ -1,4 +1,4 @@
-baseurl = "https://jobigeorge.com"
+baseurl = "https://jobigeorge.netlify.app"
 title = "Jobi George Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
