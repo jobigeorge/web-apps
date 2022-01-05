@@ -18,15 +18,6 @@ Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS an
     </item>
     
     <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>https://jobigeorge.com/post/readme/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jobigeorge.com/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
-    </item>
-    
-    <item>
       <title>Introducing Meshcentral.com</title>
       <link>https://jobigeorge.com/2010/12/14/meshcentral/</link>
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
@@ -269,8 +260,8 @@ My team did similar framework for WebSphere Application Developer 5.1.2. which w
       
       <guid>https://jobigeorge.com/top/about/</guid>
       <description>Jobi George Hanging around at the intersection of tech, business and strategy. Love learning what users are doing and to try deciphering the tea leaves.
-Feel free to connect Jobi via linkedin (https://www.linkedin.com/in/jobigeorge/)
-Thank Blog based on teamplate from Huabig. The core teamplate is from upstream work of huxblog Jekyll Theme and Clean Blog Jekyll Theme</description>
+Feel free to connect Jobi via linkedin
+Thanks Blog based on teamplate from Huabig. The core teamplate is from upstream work of huxblog Jekyll Theme and Clean Blog Jekyll Theme</description>
     </item>
     
     <item>
