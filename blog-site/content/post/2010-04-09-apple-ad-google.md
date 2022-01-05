@@ -5,9 +5,9 @@ description: ""
 excerpt: ""
 date:       2010-04-09 11:37:00
 author:     " Jobi George"
-image:     "static/img/grey-transparent.jpg"
+image:     "img/grey-transparent.jpg"
 published: true
-showtoc: true 
+showtoc: false 
 tags:
     - ecosystem
     - strategy
