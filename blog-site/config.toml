@@ -1,5 +1,5 @@
 baseurl = "https://jobigeorge.netlify.app"
-title = " Jobi George Blog "
+title = "Jobi George Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -58,7 +58,7 @@ home = ["HTML", "RSS", "Algolia"]
   # reward_guide = "" 
 
   friends = false
-  bookmarks = true
+  bookmarks = false
   about_me = true
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
