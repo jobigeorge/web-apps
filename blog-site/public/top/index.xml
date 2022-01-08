@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tops on Jobi George Blog</title>
+    <title>Tops on  Jobi George Blog </title>
     <link>https://jobigeorge.netlify.app/top/</link>
-    <description>Recent content in Tops on Jobi George Blog</description>
+    <description>Recent content in Tops on  Jobi George Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jobigeorge.netlify.app/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/top/about/</guid>
-      <description>Jobi George Hanging around at the intersection of tech, business and strategy. Love learning what users are doing and to try deciphering the tea leaves.
+      <description>Jobi George Hanging around at the intersection of technology, business and strategy. Love learning what users are doing and how the ecosystem is changing . Trying to decipher where all these breadcrumbs lead.
 Feel free to connect Jobi via linkedin
 Thanks Blog based on teamplate from Huabig. The core teamplate is from upstream work of huxblog Jekyll Theme and Clean Blog Jekyll Theme</description>
     </item>

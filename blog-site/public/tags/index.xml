@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jobi George Blog</title>
+    <title>Tags on  Jobi George Blog </title>
     <link>https://jobigeorge.netlify.app/tags/</link>
-    <description>Recent content in Tags on Jobi George Blog</description>
+    <description>Recent content in Tags on  Jobi George Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>https://jobigeorge.netlify.app/tags/business/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/tags/business/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cloud</title>
       <link>https://jobigeorge.netlify.app/tags/cloud/</link>
@@ -94,15 +103,6 @@
       <pubDate>Tue, 11 Mar 2008 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/tags/ajax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>https://jobigeorge.netlify.app/tags/business/</link>
-      <pubDate>Tue, 12 Jun 2007 10:00:00 +0000</pubDate>
-      
-      <guid>https://jobigeorge.netlify.app/tags/business/</guid>
       <description></description>
     </item>
     

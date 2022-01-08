@@ -12,6 +12,7 @@ tags:
     - leadership
     - strategy
     - ecosytem
+    - business
     - cloud
 URL: "/2019/12/25/rushing-to-cloud-marketplaces/"
 categories: [ Business ]

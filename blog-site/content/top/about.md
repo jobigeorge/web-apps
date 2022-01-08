@@ -2,7 +2,7 @@
 
 ## Jobi George
 
-Hanging around at the intersection of tech, business and strategy. Love learning what users are doing and to try deciphering the tea leaves.
+Hanging around at the intersection of technology, business and strategy. Love learning what users are doing and how the ecosystem is changing . Trying to decipher where all these breadcrumbs lead.
 
 Feel free to connect Jobi via [linkedin](https://www.linkedin.com/in/jobigeorge/) 
 

@@ -11,7 +11,6 @@ published: true
 showtoc: false 
 tags:
     - HTML
-    - AJAX
     - WEB
 URL: "/2005/06/23/stop-worrying-and-love/"
 categories: [ Business ]

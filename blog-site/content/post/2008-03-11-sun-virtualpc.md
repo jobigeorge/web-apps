@@ -11,7 +11,6 @@ published: true
 showtoc: false 
 tags:
     - HTML
-    - AJAX
     - WEB
 URL: "/2008/03/11/sun-virtualpc"
 categories: [ Business ]

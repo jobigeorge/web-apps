@@ -11,7 +11,6 @@ published: true
 showtoc: false 
 tags:
     - HTML
-    - AJAX
     - WEB
 URL: "/2005/06/02/plazes-location-app"
 categories: [ Tech ]

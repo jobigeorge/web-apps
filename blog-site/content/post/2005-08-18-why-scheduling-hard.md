@@ -11,7 +11,6 @@ published: true
 showtoc: false 
 tags:
     - HTML
-    - AJAX
     - WEB
 URL: "/2005/08/18/scheduling-so-hard"
 categories: [ Tech ]

@@ -1,5 +1,5 @@
 baseurl = "https://jobigeorge.netlify.app"
-title = "Jobi George Blog"
+title = " Jobi George Blog "
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "e81c9baa007bf7b32de916cc028bdc59"
 
   # Sidebar settings
-  sidebar_about_description = "Hanging around at the intersection of tech, business and strategy. Love learning what users are doing and to try deciphering the tea leaves."
+  sidebar_about_description = "Hanging around at the intersection of technology, business and strategy. Love learning what users are doing and how the ecosystem is changing . Trying to decipher where all these breadcrumbs lead."
   sidebar_avatar = "img/jobig.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
@@ -90,8 +90,8 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "https://zhaozhihan.com"
 
   [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
+  title =  "Martin Fowler Data Mesh"
+  href =  "https://martinfowler.com/articles/data-monolith-to-mesh.html#DomainDataAsAProduct"
   [[params.bookmark_link]]
   title = "ServiceMesher"
   href =  "http://www.servicemesher.com"
