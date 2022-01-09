@@ -10,8 +10,9 @@ image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: false 
 tags:
-    - HTML
-    - WEB
+    - Html
+    - Web
+    - Frontend
 URL: "/2008/03/11/sun-virtualpc"
 categories: [ Business ]
 ---

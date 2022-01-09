@@ -9,8 +9,8 @@ image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: true 
 tags:
-    - leadership
-    - strategy
+    - Leadership
+    - Strategy
 URL: "/2008/05/27/apple-leadership-within/"
 categories: [ Business ]
 ---

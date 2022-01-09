@@ -10,8 +10,8 @@ image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: false 
 tags:
-    - HTML
-    - WEB
+    - Html
+    - Web
 URL: "/2005/06/02/tibco-general-interface/"
 categories: [ Tech ]
 ---

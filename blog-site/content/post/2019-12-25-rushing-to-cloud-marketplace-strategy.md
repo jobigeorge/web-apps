@@ -9,11 +9,11 @@ image:     "/img/blogimg/rushing-mkt.png"
 published: true
 showtoc: true 
 tags:
-    - leadership
-    - strategy
-    - ecosytem
-    - business
-    - cloud
+    - Leadership
+    - Strategy
+    - Ecosytem
+    - Business
+    - Cloud
 URL: "/2019/12/25/rushing-to-cloud-marketplaces/"
 categories: [ Business ]
 ---

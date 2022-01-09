@@ -9,8 +9,8 @@ image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: true 
 tags:
-    - leadeership
-    - strategy
+    - Leadeership
+    - Strategy
 URL: "/2008/06/16/apple-sells-benefits/"
 categories: [ Business ]
 ---

@@ -10,7 +10,7 @@ image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: false 
 tags:
-    - HTML
+    - Html
     - Web
     - Serverless
 URL: "/2005/06/02/websphere-browser-framework/"

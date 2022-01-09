@@ -9,8 +9,9 @@ image:     "static/img/grey-transparent.jpg"
 published: true
 showtoc: true 
 tags:
-    - leadership
-    - strategy
+    - Leadership
+    - Strategy
+    - Ecosystem
 URL: "/2009/05/29/apple-bizmodel/"
 categories: [ Business ]
 ---
