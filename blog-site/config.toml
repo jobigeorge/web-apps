@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/blog-background.jpeg"
-  SEOTitle = "Jobi George Blog"
+  SEOTitle = " Jobi George Blog "
   description = "Tech, Business, Strategy"
   keyword = "Blog, Web, Strategy, Software, SaaS, Cloud, Startup, Partnerships,Biology"
   slogan = "Random Thoughts"
