@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on Random Thoughts</title>
+    <link>https://jobigeorge.netlify.app/tags/frontend/</link>
+    <description>Recent content in Frontend on Random Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Mar 2008 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sun Microsystems to sell &#39;virtual&#39; Windows PCs </title>
+      <link>https://jobigeorge.netlify.app/2008/03/11/sun-virtualpc/</link>
+      <pubDate>Tue, 11 Mar 2008 11:37:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/2008/03/11/sun-virtualpc/</guid>
+      <description>Now who would have thought Sun would go to this length. But this shows the new found maturity and the savviness of the young CEO. Sun now with acquisition is able to provide a good stack for hosted desktop solution.
+ Sun Microsystems plans to introduce software and hardware to create &amp;ldquo;virtual&amp;rdquo; Windows and Linux personal computers that can be accessed via desktop machines, laptops and cell phones.&amp;ldquo;We are going to announce (it) soon,&amp;rdquo; said Steve Wilson, a Sun vice president involved in the project.</description>
+    </item>
+    
+  </channel>
+</rss>

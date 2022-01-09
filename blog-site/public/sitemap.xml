@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jobigeorge.netlify.app/</loc>
-    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jobigeorge.netlify.app/tags/business/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +21,9 @@
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jobigeorge.netlify.app/post/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jobigeorge.netlify.app/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jobigeorge.netlify.app/2019/12/25/rushing-to-cloud-marketplaces/</loc>
@@ -68,7 +68,7 @@
     <loc>https://jobigeorge.netlify.app/2008/05/27/apple-leadership-within/</loc>
     <lastmod>2008-05-27T11:37:00+00:00</lastmod>
   </url><url>
-    <loc>https://jobigeorge.netlify.app/tags/ajax/</loc>
+    <loc>https://jobigeorge.netlify.app/tags/frontend/</loc>
     <lastmod>2008-03-11T11:37:00+00:00</lastmod>
   </url><url>
     <loc>https://jobigeorge.netlify.app/2008/03/11/sun-virtualpc/</loc>

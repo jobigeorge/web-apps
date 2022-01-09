@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ecosystem on  Jobi George Blog </title>
+    <title>Ecosystem on Random Thoughts</title>
     <link>https://jobigeorge.netlify.app/tags/ecosystem/</link>
-    <description>Recent content in Ecosystem on  Jobi George Blog </description>
+    <description>Recent content in Ecosystem on Random Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Apr 2010 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/ecosystem/index.xml" rel="self" type="application/rss+xml" />
@@ -16,6 +16,17 @@
       <description>With iAd now officially announced and details starting to trickle in, the fight is officially on. Google and Apple are now in direct competition and this time it is in Google&amp;rsquo;s home turf. Forbes has a good take on what are missing in the iAd efforts.
 The 4 keys ones are -
  Creative agencies build ads in Flash. There is no comparable tool for creating HTML5 creatives. As a media agency (e.</description>
+    </item>
+    
+    <item>
+      <title>Android Business Model getting clearer - The 3 options</title>
+      <link>https://jobigeorge.netlify.app/2009/05/29/apple-bizmodel/</link>
+      <pubDate>Fri, 29 May 2009 11:37:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/2009/05/29/apple-bizmodel/</guid>
+      <description>Google is finally giving more clarity on the business models for device vendors and the service providers. The NY Times article mention three options -
+  The obligation-free option: Fre Android, load onto their devices and provide access to as many or as few apps as they want. No preload popular Google applications, like Gmail or Google calendar.
+  The small strings option: Same as Option 1, except that manufacturers sign a distribution agreement to include on the phone Google applications.</description>
     </item>
     
     <item>

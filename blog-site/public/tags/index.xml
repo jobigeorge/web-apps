@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on  Jobi George Blog </title>
+    <title>Tags on Random Thoughts</title>
     <link>https://jobigeorge.netlify.app/tags/</link>
-    <description>Recent content in Tags on  Jobi George Blog </description>
+    <description>Recent content in Tags on Random Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>cloud</title>
+      <title>Cloud</title>
       <link>https://jobigeorge.netlify.app/tags/cloud/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>ecosytem</title>
+      <title>Ecosytem</title>
       <link>https://jobigeorge.netlify.app/tags/ecosytem/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>leadership</title>
+      <title>Leadership</title>
       <link>https://jobigeorge.netlify.app/tags/leadership/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>HTML</title>
+      <title>Html</title>
       <link>https://jobigeorge.netlify.app/tags/html/</link>
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>WEB</title>
+      <title>Web</title>
       <link>https://jobigeorge.netlify.app/tags/web/</link>
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>leadeership</title>
+      <title>Leadeership</title>
       <link>https://jobigeorge.netlify.app/tags/leadeership/</link>
       <pubDate>Mon, 16 Jun 2008 11:37:00 +0000</pubDate>
       
@@ -98,11 +98,11 @@
     </item>
     
     <item>
-      <title>AJAX</title>
-      <link>https://jobigeorge.netlify.app/tags/ajax/</link>
+      <title>Frontend</title>
+      <link>https://jobigeorge.netlify.app/tags/frontend/</link>
       <pubDate>Tue, 11 Mar 2008 11:37:00 +0000</pubDate>
       
-      <guid>https://jobigeorge.netlify.app/tags/ajax/</guid>
+      <guid>https://jobigeorge.netlify.app/tags/frontend/</guid>
       <description></description>
     </item>
     
