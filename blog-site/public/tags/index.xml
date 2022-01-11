@@ -6,13 +6,49 @@
     <description>Recent content in Tags on Random Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 18:00:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Business</title>
       <link>https://jobigeorge.netlify.app/tags/business/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem</title>
+      <link>https://jobigeorge.netlify.app/tags/ecosystem/</link>
+      <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/tags/ecosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>partnerships</title>
+      <link>https://jobigeorge.netlify.app/tags/partnerships/</link>
+      <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/tags/partnerships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startups</title>
+      <link>https://jobigeorge.netlify.app/tags/startups/</link>
+      <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/tags/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://jobigeorge.netlify.app/tags/strategy/</link>
+      <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/tags/strategy/</guid>
       <description></description>
     </item>
     
@@ -44,15 +80,6 @@
     </item>
     
     <item>
-      <title>Strategy</title>
-      <link>https://jobigeorge.netlify.app/tags/strategy/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jobigeorge.netlify.app/tags/strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Html</title>
       <link>https://jobigeorge.netlify.app/tags/html/</link>
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
@@ -76,15 +103,6 @@
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecosystem</title>
-      <link>https://jobigeorge.netlify.app/tags/ecosystem/</link>
-      <pubDate>Fri, 09 Apr 2010 11:37:00 +0000</pubDate>
-      
-      <guid>https://jobigeorge.netlify.app/tags/ecosystem/</guid>
       <description></description>
     </item>
     

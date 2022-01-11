@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>startups on Random Thoughts</title>
+    <link>https://jobigeorge.netlify.app/tags/startups/</link>
+    <description>Recent content in startups on Random Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 18:00:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/startups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Should Early-Stage startups invest in Business Development?</title>
+      <link>https://jobigeorge.netlify.app/2022/01/10/should-startups-invest-in-bd/</link>
+      <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://jobigeorge.netlify.app/2022/01/10/should-startups-invest-in-bd/</guid>
+      <description>As a practitioner, I get this question a lot of time from the newly minted CEOs. They understand the math behind their company’s primary Go-To-Market (GTM) motion. And also might have built a working model on how to scale if the product-market fit emerges. Most of the time, it goes something like this - For a top-down enterprise selling motion - “If I hire X Sales/SE/Ops guys, they can get me to Y revenue, if there is more demand I will just replicate and use a bigger multiplier”.</description>
+    </item>
+    
+  </channel>
+</rss>
