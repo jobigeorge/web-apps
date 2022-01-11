@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "Should Early-Stage startups invest in Business Development?"
-description: "If grown the right way, can amplify the core go-to-market with minimal resources that can change the trajectory of the company…"
+description: "At early-stage startups BD function, if grown in the right way, can amplify the go-to-market with minimal resources and bring opportunities that can change the trajectory of the company…"
 excerpt: ""
 date:       2022-01-10 18:00:00
 author:     " Jobi George"
