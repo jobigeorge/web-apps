@@ -13,7 +13,7 @@
       <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2022/01/10/should-startups-invest-in-bd/</guid>
-      <description>As a practitioner, I get this question a lot of time from the newly minted CEOs. They understand the math behind their company’s primary Go-To-Market (GTM) motion. And also might have built a working model on how to scale if the product-market fit emerges. Most of the time, it goes something like this - For a top-down enterprise selling motion - “If I hire X Sales/SE/Ops guys, they can get me to Y revenue, if there is more demand I will just replicate and use a bigger multiplier”.</description>
+      <description>As a practitioner, I get this question from the newly minted CEOs a lot of time. They understand the math behind their company’s primary Go-To-Market (GTM) motion. And also might have built a working model on how to scale if the product-market fit emerges. Most of the time, it goes something like this - For a top-down enterprise selling motion - “If I hire X Sales/SE/Ops guys, they can get me to Y revenue, if there is more demand, I will just replicate and use a bigger multiplier”.</description>
     </item>
     
     <item>
@@ -22,8 +22,8 @@
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2019/12/25/rushing-to-cloud-marketplaces/</guid>
-      <description>For software vendors it is not just about getting on the catalog but also about building a product that maximizes the massive channel these cloud marketplaces open up
-Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS and Google GCP are in now, AWS Marketplace alone has 7500+ listing and over a million subscribers. Cloud is fundamentally transforming the supply chain of software and services. For any independent software vendor (ISV) today it is hard to ignore the havoc these cloud platforms are causing to their established way of building, marketing and selling software.</description>
+      <description>For software vendors, it is not just about getting on the catalog but also about building a product that maximizes the massive channel these cloud marketplaces open up
+Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS, and Google GCP are in now, AWS Marketplace alone has 7500+ listings and over a million subscribers. Cloud is fundamentally transforming the supply chain of software and services. For any independent software vendor (ISV) today it is hard to ignore the havoc these cloud platforms are causing to their established way of building, marketing, and selling software.</description>
     </item>
     
     <item>
@@ -32,8 +32,8 @@ Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS an
       <pubDate>Tue, 12 Jun 2007 10:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2007/06/12/sample-dat/</guid>
-      <description>Recently read about the famous &amp;ldquo;Sampling Case&amp;rdquo; that involved George Clinton. Yes the same George Clinton who ruled the 1970-1982 urban dance floors, mixing blues with earth-shaking bottom, cosmic consciousness, and some of the best guitar leads in dance music. He is also credited with giving birth to funk.
-It is very interesting to see the parallels between music industry evolution and what virtualization driven digitization is doing to the computer industry.</description>
+      <description>Recently read about the famous &amp;ldquo;Sampling Case&amp;rdquo; that involved George Clinton. Yes, the same George Clinton who ruled the 1970-1982 urban dance floors, mixing blues with earth-shaking bottom, cosmic consciousness, and some of the best guitar leads in dance music. He is also credited with giving birth to funk.
+It is exciting to see the parallels between the evolution of the music industry and virtualization-driven digitization to the computer industry.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Sat, 14 Apr 2007 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2007/04/14/digitization-desktop/</guid>
-      <description>Virtualization driven desktop consolidations are very much in news now. VMware with VDI got it started but very quickly others are rallying and catching on to the bandwagon. Citrix, Microsoft and others though late to the party are not sitting idle and are quickly catching up. Recent news on the licensing changes from Microsoft to support Vista Enterprise Centralized Desktops (VECD) looks like the tipping point for adoption of desktop virtualization by mainstream.</description>
+      <description>Virtualization driven desktop consolidations are very much in the news now. VMware with VDI got it started, but others are rallying and catching on to the bandwagon very quickly. Though late to the party,Citrix, Microsoft and others are not sitting idle and are quickly catching up. Recent news on the licensing changes from Microsoft to support Vista Enterprise Centralized Desktops (VECD) looks like the tipping point for the adoption of desktop virtualization by the mainstream.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Tue, 07 Nov 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/11/07/suitetwo-intel/</guid>
-      <description>Today Intel is announcing the launch of SuiteTwo.com – a collection of web2.0 stack which is jointly developed by leading web2.0 players that include – MOVABLETYPE, SimpleFeed, Socialtext, Newsgator and Spikesource. We are announcing this at the currently ongoing Tim O’Reilly web2.0 conference at San Francisco, CA. SuiteTwo is a rich set of interconnected services that combine to improve productivity and enable high-engagement marketing. SuiteTwo includes the most trusted platforms for blogs, wikis, RSS feed reading, and RSS feed management, all under a single management interface.</description>
+      <description>Today Intel is announcing the launch of SuiteTwo.com – a collection of web2.0 stack jointly developed by leading web2.0 players that include – MOVABLETYPE, SimpleFeed, Socialtext, Newsgator and Spikesource. We are announcing this at the currently ongoing Tim O’Reilly web2.0 conference in San Francisco, CA. SuiteTwo is a rich set of interconnected services that combine to improve productivity and enable high-engagement marketing. SuiteTwo includes the most trusted platforms for blogs, wikis, RSS feed reading, and RSS feed management, all under a single management interface.</description>
     </item>
     
     <item>
@@ -60,7 +60,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Sun, 05 Nov 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/11/05/personal-computer-part2/</guid>
-      <description>Last week I talked about how the PCs existing role is being threatened by the evolving push towards services based applications. There is a widespread fear that web2.0 and SaaS will finally kill the thick Moore&amp;rsquo;s law driven PC and we all will be either working of dumb terminals or the cell phone size devices that will run all our applications. Certainly skeptics and realists are arriving and last weeks blog by John Milan talked about how Google&amp;rsquo;s desktop based application strategy is evolving.</description>
+      <description>Last week I talked about how the evolving push towards services-based applications threatens the existing PCs role. There is a widespread fear that web2.0 and SaaS will finally kill the thick Moore&amp;rsquo;s law-driven PC, and we all will be either working on dumb terminals or the cell phone size devices that will run all our applications. Skeptics and realists are arriving and last week&amp;rsquo;s blog byJohn Milan talked about how Google&amp;rsquo;s desktop based application strategy is evolving.</description>
     </item>
     
     <item>
@@ -69,7 +69,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Thu, 19 Oct 2006 11:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/10/19/personal-computers-part1/</guid>
-      <description>There is enough written about the success of the PCs, and the overall impact it has had over decades. PCs not only are attributed to increased productivity, economic gains and creation of the Information Technology business. I don’t have to delve into it very much. What I am trying to do is look at PCs and their role in the changing landscape of services based application, call it web2.0, SOA or some flavor of SaaS.</description>
+      <description>There is enough written about the PCs&#39; success and the overall impact it has had over decades. PCs are attributed to increased productivity, economic gains, and the creation of the Information Technology business. I don&amp;rsquo;t have to delve into it very much. I am looking at PCs and their role in the changing landscape of services-based applications, call it web2.0, SOA, or some flavor of SaaS. I am using the term PCs very loosely to refer PC</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Mon, 26 Jun 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/06/26/intel-meet-darwin/</guid>
-      <description>Pretty well put by Geoff Moore. A great guidance and lesson for anybody trying to be a platform player.
+      <description>Pretty well put by Geoff Moore. Excellent guidance and lesson for anybody trying to be a platform player.
  Dealing with Darwin demands counter-intuitive actions, specifically when the environment has changed in some fundamental way that invalidates one’s traditional source of competitive advantage. … The competitive advantage position is changed. It remains to be seen if Intel can adapt and define competitive advantages in adjacencies.
 This past week Intel surprised analysts with the latest in a set of uncharacteristically weak performances, especially in comparison with AMD.</description>
     </item>

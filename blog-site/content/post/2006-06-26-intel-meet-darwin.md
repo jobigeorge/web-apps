@@ -17,7 +17,7 @@ URL: "/2006/06/26/intel-meet-darwin"
 categories: [ Business ]
 ---
 
-> Pretty well put by [Geoff Moore](http://geoffmoore.blogs.com/my_weblog/2006/04/index.html). A great guidance and lesson for anybody trying to be a platform player.
+> Pretty well put by [Geoff Moore](http://geoffmoore.blogs.com/my_weblog/2006/04/index.html). Excellent guidance and lesson for anybody trying to be a platform player. 
 
 Dealing with Darwin demands counter-intuitive actions, specifically when the environment has changed in some fundamental way that invalidates one’s traditional source of competitive advantage. … The competitive advantage position is changed. It remains to be seen if Intel can adapt and define competitive advantages in adjacencies.
 
@@ -42,9 +42,9 @@ Is this a good idea? Who knows? If it worked, it would be brilliant; if it faile
 My main point here, however, is that there are times when **dealing with Darwin demands counter-intuitive actions, specifically when the environment has changed in some fundamental way that invalidates one’s traditional source of competitive advantage.** Intel’s abandonment of its Intel Inside positioning in favor of migrating from a product to a platform innovation strategy (see earlier blog) is one manifestation of such action. It is a move that clearly anticipated the erosion of power we are now witnessing. But I have to believe Intel management assumed a softer landing than it is now experiencing. In any event, they have set a self-imposed deadline of 90 days to respond. When comes calling, it important not to keep him waiting in the lobby.
 
 
-
-##### Original Post
-
-* Originally posted at [ Blogspot ]( http://jobig.blogspot.com/2006/06/intel-meet-darwin.html) on {{< param date >}}
+_______________
+Originally posted at 
+[ Blogspot ](http://jobig.blogspot.com/2006/06/intel-meet-darwin.html) 
+on **{{< param date >}}** 
 
 

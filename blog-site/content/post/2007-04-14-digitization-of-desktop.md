@@ -18,32 +18,34 @@ tags:
 URL: "/2007/04/14/digitization-desktop"
 categories: [ Business ]
 ---
-Virtualization driven desktop consolidations are very much in news now. [VMware with VDI](http://www.vmware.com/vdi) got it started but very quickly others are rallying and catching on to the bandwagon. [Citrix](http://www.citrix.com/), [Microsoft](http://weblog.infoworld.com/virtualization/archives/2006/05/will_carmine_be.html) and others though late to the party are not sitting idle and are quickly catching up. Recent news on the licensing changes from Microsoft to support [Vista Enterprise Centralized Desktops (VECD)](http://www.theregister.co.uk/2007/04/03/windows_vista_virtualization/) looks like the tipping point for adoption of desktop virtualization by mainstream.
+Virtualization driven desktop consolidations are very much in the news now. [VMware with VDI](http://www.vmware.com/vdi) got it started, but others are rallying and catching on to the bandwagon very quickly. Though late to the party,[Citrix](http://www.citrix.com/), [Microsoft](http://weblog.infoworld.com/virtualization/archives/2006/05/will_carmine_be.html) and others are not sitting idle and are quickly catching up.  Recent news on the licensing changes from Microsoft to support [Vista Enterprise Centralized Desktops (VECD)](http://www.theregister.co.uk/2007/04/03/windows_vista_virtualization/) looks like the tipping point for the adoption of desktop virtualization by the mainstream.
 
-Also finally the technology solution to bring true Server Based Computing is finally seem to be mature enough. Things that were bad with old Server Based Computing models such as bad response times, shaky audio and rigid architectures & application ncompatiblities are giving way to more nimble and better performing solution offerings.
+The technology solution to bring true Server Based Computing (SBC) finally seems to be mature enough. Things that were bad with old Server Based Computing models, such as bad response times, shaky audio, rigid architectures & application incompatibilities, are giving way to more nimble and performant solution offerings.
 
-Lets just look at the protocols itself. It has come long way with the newer version of MS RDP and Citrix ICA it is now possible to do things like full duplex audio, video streams, local port redirection, local printer and drive support, multi-display and many more.
+The newer version of MS RDP and Citrix ICA protocols has come a long way. It is now possible to do full-duplex audio, video streams, local port redirection, a local printer and drive support, multi-display, and much more.
 
-And on the end user side the client devices have been also getting better with advances in new System-On-Chip (SOC) form factors like [ChipPC](http://www.chippc.com/thin-clients/jack-pc/) . Now we are getting all flavors/forms of devices that scale and adjust to the experience the solutions expects.
+And on the end-user side, the client devices have also been getting better with advances in new System-On-Chip (SOC) form factors like [ChipPC](http://www.chippc.com/thin-clients/jack-pc/). We are getting all flavors/forms of devices that scale and adjust to the experience the solutions expect.
 
-In my opinion this is going to start changing the landscape as newer and newer usages come under the grips of SBC. I think the move towards virtualization of physical entities is going to change the desktop ecosystem for ever. The implications are profound and first is the rise of stateless client devices (yeah I know cellphone had been doing this for sometime but I am talking of PC like devices). Second is the digitization of desktops leading to new usages.
+In my opinion, this will start changing the landscape as newer and newer usages come under the grips of SBC. I think the move towards the virtualization of physical entities will change the desktop ecosystem forever. The implications are profound-stateless devices and digitized desktops. I know cellphone have been doing this for some time, but I am talking of PC-like devices.
 
-**Stateless Client Devices**
+I. Rise of **Stateless Client Devices**
 
-First in continuation of some of the [trends I highlighted in my blog earlier](/2006/11/05/personal-computer-part2/) on changing role of PCs, the client devices start continuing on its accelerated path towards becoming stateless devices. I am working on a follow on post on how the trend is fundamentally causing a divergence in the PC architecture in both on the consumer and enterprise side. More later
+This is continuation of some of the [trends I highlighted in my blog earlier](/2006/11/05/personal-computer-part2/) on changing role of PCs, and the client devices start continuing on their accelerated path towards becoming stateless devices. I am working on a follow on post on how the trend is fundamentally causing a divergence in the PC architecture both on the consumer and enterprise side. 
 
-Digitization of Desktop leading to new uses
+II. **Digitization of Desktop** leading to new uses
 
-The digitization of desktop is the next wonderful field of opportunities. It is going to take us to a world of new players and new ecosystem. The analogy I give is that of music industry and the introduction of CDs. Digitized music meant the tape player and CD players became obsolete and we had the rise of mp3 players. But not only that, now you could have play lists, streaming of audios at track level, easy mixing and yes emergence of new type of marketplace like - **[Apple iTunes](http://www.apple.com/itunes)**. Also the old players and control points got replaced by new ones like Apple, Microsoft and Bittorent.
+The digitization of the desktop is the next excellent field of opportunities. It will take us to a world of new players and a new ecosystem. The analogy I give is that of the music industry and CDs' introduction. Digitized music meant the tape player and CD players became obsolete, and we had the rise of mp3 players. But not only could you listen to music, but now you could have playlists, audio streaming at track level, easy mixing, and yes, a new marketplace like **[Apple iTunes](http://www.apple.com/itunes)**. Also, the old players and ecosystem control points got replaced by new ones like Apple, Microsoft, and Bittorent.
 
-As value moves around **New usages and new applications emerge**, usages that were not possible before. For example take the case of IXIS corporation. They spoke in the last IDC conference on virtualization about their adoption of VDI. They are considering VDI for their heavy weight users who at one point had 6 PC Servers under their desktop. But the consideration to go VDI route was not driven just by the functionality of hosted desktops getting closer to that of real desktop but because of new usages. The traders in IXIS create sophisticated models and hence the need for more horse power . But in the new model they don't have 6 machines but 100s of them and they can provision new ones instantly. Also because of the flat file format of VMs (virtual machines) it means a trader can go and pull out a model that he did 30 days ago in a blink of an eye - that my friend is real power and real new usages.
+As value moves around **New usages and new applications emerge**, new usages and new applications emerge, which were not possible before. For example, take the case of IXIS corporation. They spoke in the last IDC conference on virtualization about their adoption of VDI. They are considering VDI as an approach for their heavy trading users who had six PC Servers under their desktop. The decision to go the VDI route was not driven just by the functionality of hosted desktops getting closer to an actual desktop but because of new usages. The traders in IXIS created sophisticated models, and the need for more horsepower was always there. In the new model, they don't have six machines, but 100s of them and they can provision new ones instantly. Also, the flat file format of VMs (virtual machines) means a trader can go and pull out a model that he did 30 days ago in a blink of an eye - that my friends is **real power and real new usages**.
 
 **....does she care what server the desktop really ran on....or where the compute really happened?**
 
 
 
-##### Original Post
 
-* Originally posted at [ Blogspot ]( http://jobig.blogspot.com/2007/04/digitization-of-desktop.html) on {{< param date >}}
+_______________
+Originally posted at 
+[ Blogspot ](http://jobig.blogspot.com/2007/04/digitization-of-desktop.html) 
+on **{{< param date >}}** 
 
 

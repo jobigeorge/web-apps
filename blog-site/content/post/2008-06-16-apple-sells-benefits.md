@@ -15,17 +15,16 @@ URL: "/2008/06/16/apple-sells-benefits/"
 categories: [ Business ]
 ---
 
-Yes Apple has done it again and as usual I am a big fan of Steve (who isn't :-)...
+Yes, Apple has done it again, and as always, I am a big fan of Steve (who isn't :-)
 
-3G iPhones are going to be here soon and the evolution of platform continues. The difference between Apple and Google is so visible...
+3G iPhones will be here soon, and the platform's evolution continues. The difference between Apple and Google is so visible.
 
-**Apple sells benefits, while everyone else sells features.** Since average consumers are only interested in benefits: calling someone, texting someone, photo galleries, video playback, maps, web browsing, email, etc. The technical features that enable these benefits are uninteresting or just plain confusing. How much RAM does the phone have? How many mega pixels is the screen? How fast is the data transfer rate when it's plugged into a USB port? Answers to these questions do not sell phones to average consumers. And the biggest share of wallet will go to the products that get the biggest share of mind.
+**Apple sells benefits, while everyone else sells features.** Since average consumers are only interested in benefits, they care about calling, texting someone, taking photos, playing video, navigating maps, browsing the web, reading email, etc. The technical features that enable these benefits are uninteresting or just plain confusing. How much RAM does the phone have? How many megapixels is the screen? How fast is the data transfer rate when plugged into a USB port? Answers to these questions do not sell phones to average consumers. And the most significant share of the wallet will go to the products that get the most important share of mind.
 
-But I won't count Google. Google plays to change behaviour. Sometimes the threat is enough to force handsets to open up and google to get entry with their "intention capturing and monetizing business".. 
+But I won't count Google out. Google plays to change behavior. Sometimes the threat is enough to force the handsets ecosystem to open up, and Google enters.
 
-##### Original Post
-
-* Originally posted at [ Blogspot ]( http://jobig.blogspot.com/2008/06/apple-sells-benefits-others-sell.html) on {{< param date >}}
+_______________
+Originally posted at [ Blogspot ]( http://jobig.blogspot.com/2008/06/apple-sells-benefits-others-sell.html)  on **{{< param date >}}**  
 
 
 

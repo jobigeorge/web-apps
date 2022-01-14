@@ -13,7 +13,7 @@
       <pubDate>Mon, 10 Jan 2022 18:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2022/01/10/should-startups-invest-in-bd/</guid>
-      <description>As a practitioner, I get this question a lot of time from the newly minted CEOs. They understand the math behind their company’s primary Go-To-Market (GTM) motion. And also might have built a working model on how to scale if the product-market fit emerges. Most of the time, it goes something like this - For a top-down enterprise selling motion - “If I hire X Sales/SE/Ops guys, they can get me to Y revenue, if there is more demand I will just replicate and use a bigger multiplier”.</description>
+      <description>As a practitioner, I get this question from the newly minted CEOs a lot of time. They understand the math behind their company’s primary Go-To-Market (GTM) motion. And also might have built a working model on how to scale if the product-market fit emerges. Most of the time, it goes something like this - For a top-down enterprise selling motion - “If I hire X Sales/SE/Ops guys, they can get me to Y revenue, if there is more demand, I will just replicate and use a bigger multiplier”.</description>
     </item>
     
     <item>
@@ -22,8 +22,8 @@
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2019/12/25/rushing-to-cloud-marketplaces/</guid>
-      <description>For software vendors it is not just about getting on the catalog but also about building a product that maximizes the massive channel these cloud marketplaces open up
-Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS and Google GCP are in now, AWS Marketplace alone has 7500+ listing and over a million subscribers. Cloud is fundamentally transforming the supply chain of software and services. For any independent software vendor (ISV) today it is hard to ignore the havoc these cloud platforms are causing to their established way of building, marketing and selling software.</description>
+      <description>For software vendors, it is not just about getting on the catalog but also about building a product that maximizes the massive channel these cloud marketplaces open up
+Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS, and Google GCP are in now, AWS Marketplace alone has 7500+ listings and over a million subscribers. Cloud is fundamentally transforming the supply chain of software and services. For any independent software vendor (ISV) today it is hard to ignore the havoc these cloud platforms are causing to their established way of building, marketing, and selling software.</description>
     </item>
     
     <item>
@@ -32,17 +32,17 @@ Cloud Marketplaces from mega cloud platforms like Microsoft Azure, Amazon AWS an
       <pubDate>Tue, 14 Dec 2010 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2010/12/14/meshcentral/</guid>
-      <description>MeshCentral is an experimental service from Intel Software and Services Group. The service concept is brain child of brilliant researcher Ylian Saint-Hilaire. I joined Yllian early this year as the business guy to bring MESHCentral technologies to market. In nutshell MeshCentral is a very simple concept of allowing easier/scalable (P2P) way to connect edge nodes (PC, embedded CE, routers etc..) to Cloud Services that allow secure discovery with ability to send authorized events and deliver secure control messages.</description>
+      <description>MeshCentral is an experimental service from Intel Software and Services Group. The service concept is the brainchild of the brilliant researcher Ylian Saint-Hilaire. I joined with Yllian early this year as the business guy to bring MESHCentral technologies to market. In a nutshell, MeshCentral is a very simple concept of allowing easier/scalable (P2P) ways to connect edge nodes (PC, embedded CE, routers, etc..) to Cloud Services that allow secure discovery with the ability to send authorized events and deliver secure control messages.</description>
     </item>
     
     <item>
-      <title>iAd - Did Google just hold a red cloth to charging bull?</title>
+      <title>iAd - Did Google hold a red cloth to the charging bull?</title>
       <link>https://jobigeorge.netlify.app/2010/04/09/apple-ad-google/</link>
       <pubDate>Fri, 09 Apr 2010 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2010/04/09/apple-ad-google/</guid>
-      <description>With iAd now officially announced and details starting to trickle in, the fight is officially on. Google and Apple are now in direct competition and this time it is in Google&amp;rsquo;s home turf. Forbes has a good take on what are missing in the iAd efforts.
-The 4 keys ones are -
+      <description>With iAd now officially announced and details starting to trickle in, the fight is officially on. Google and Apple are now in direct competition, and this time it is on Google’s home turf. Forbes has a good take on what is missing in the iAd efforts.
+The four keys ones are -
  Creative agencies build ads in Flash. There is no comparable tool for creating HTML5 creatives. As a media agency (e.</description>
     </item>
     
@@ -52,9 +52,9 @@ The 4 keys ones are -
       <pubDate>Fri, 29 May 2009 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2009/05/29/apple-bizmodel/</guid>
-      <description>Google is finally giving more clarity on the business models for device vendors and the service providers. The NY Times article mention three options -
-  The obligation-free option: Fre Android, load onto their devices and provide access to as many or as few apps as they want. No preload popular Google applications, like Gmail or Google calendar.
-  The small strings option: Same as Option 1, except that manufacturers sign a distribution agreement to include on the phone Google applications.</description>
+      <description>Google is finally giving more clarity on the business models for device vendors and service providers. The NY Times article mention three options -
+  The obligation-free option: Free Android, load onto their devices, and provide access to as many or as few apps as they want. No preload popular Google applications, like Gmail or Google calendar.
+  The small strings attached option: Same as Option 1, except that manufacturers sign a distribution agreement to include on the phone Google applications.</description>
     </item>
     
     <item>
@@ -63,9 +63,9 @@ The 4 keys ones are -
       <pubDate>Mon, 16 Jun 2008 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2008/06/16/apple-sells-benefits/</guid>
-      <description>Yes Apple has done it again and as usual I am a big fan of Steve (who isn&amp;rsquo;t :-)&amp;hellip;
-3G iPhones are going to be here soon and the evolution of platform continues. The difference between Apple and Google is so visible&amp;hellip;
-Apple sells benefits, while everyone else sells features. Since average consumers are only interested in benefits: calling someone, texting someone, photo galleries, video playback, maps, web browsing, email, etc.</description>
+      <description>Yes, Apple has done it again, and as always, I am a big fan of Steve (who isn&amp;rsquo;t :-)
+3G iPhones will be here soon, and the platform&amp;rsquo;s evolution continues. The difference between Apple and Google is so visible.
+Apple sells benefits, while everyone else sells features. Since average consumers are only interested in benefits, they care about calling, texting someone, taking photos, playing video, navigating maps, browsing the web, reading email, etc.</description>
     </item>
     
     <item>
@@ -74,8 +74,8 @@ Apple sells benefits, while everyone else sells features. Since average consumer
       <pubDate>Tue, 27 May 2008 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2008/05/27/apple-leadership-within/</guid>
-      <description>Today there is a great post by Geofferey Helt at Minnyvale on how Steve transformed Apple..In summary..
-The fundamental challenge facing the leadership team at Apple is not about strategy, but rather capacity. The question that stands in the way of its heroic future is: How do we redesign the organization of our business to deliver on the following interconnected fronts?
+      <description>Today there is an excellent post by Geoffrey Helt at Minnyvale on how Steve transformed Apple. I have summarized it below -
+The fundamental challenge facing the leadership team at Apple is not about strategy but rather capacity. The question that stands in the way of its heroic future is: How do we redesign the organization of our business to deliver on the following interconnected fronts?
  Doubling the number of Apple stores to facilitate broader adoption.</description>
     </item>
     
@@ -85,7 +85,7 @@ The fundamental challenge facing the leadership team at Apple is not about strat
       <pubDate>Tue, 11 Mar 2008 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2008/03/11/sun-virtualpc/</guid>
-      <description>Now who would have thought Sun would go to this length. But this shows the new found maturity and the savviness of the young CEO. Sun now with acquisition is able to provide a good stack for hosted desktop solution.
+      <description>Now, who would have thought Sun would go to this length. But this shows the newfound maturity and the savviness of the young CEO. Sun now, with the acquisition, can provide a good stack for hosted desktop solutions.
  Sun Microsystems plans to introduce software and hardware to create &amp;ldquo;virtual&amp;rdquo; Windows and Linux personal computers that can be accessed via desktop machines, laptops and cell phones.&amp;ldquo;We are going to announce (it) soon,&amp;rdquo; said Steve Wilson, a Sun vice president involved in the project.</description>
     </item>
     
@@ -95,7 +95,7 @@ The fundamental challenge facing the leadership team at Apple is not about strat
       <pubDate>Sat, 07 Jul 2007 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2007/07/07apple-secret-weapon/</guid>
-      <description>Now more than a week has passed since &amp;ldquo;iPhone&amp;rdquo; release and hopefully we can start looking beyond Jesus Phone. Looks like things are getting back to normal and Apple is also ready to focus back on iPod. It is a good time to talk about things beyond iPhone. One of the key capabilities that Apple had been quietly rolling out into it&amp;rsquo;s products and is very rarely talked about is the networking platform - &amp;ldquo;Bonjour&amp;rdquo;.</description>
+      <description>More than a week has passed since the “iPhone” release, and hopefully, we can start looking beyond Jesus Phone. It seems like things are getting back to normal, and Apple is also ready to focus back on iPod. It is a good time to talk about things beyond iPhone. One of the key capabilities that Apple had been quietly rolling out into its products and is very rarely talked about is the networking platform - &amp;ldquo;Bonjour.</description>
     </item>
     
     <item>
@@ -104,8 +104,8 @@ The fundamental challenge facing the leadership team at Apple is not about strat
       <pubDate>Tue, 12 Jun 2007 10:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2007/06/12/sample-dat/</guid>
-      <description>Recently read about the famous &amp;ldquo;Sampling Case&amp;rdquo; that involved George Clinton. Yes the same George Clinton who ruled the 1970-1982 urban dance floors, mixing blues with earth-shaking bottom, cosmic consciousness, and some of the best guitar leads in dance music. He is also credited with giving birth to funk.
-It is very interesting to see the parallels between music industry evolution and what virtualization driven digitization is doing to the computer industry.</description>
+      <description>Recently read about the famous &amp;ldquo;Sampling Case&amp;rdquo; that involved George Clinton. Yes, the same George Clinton who ruled the 1970-1982 urban dance floors, mixing blues with earth-shaking bottom, cosmic consciousness, and some of the best guitar leads in dance music. He is also credited with giving birth to funk.
+It is exciting to see the parallels between the evolution of the music industry and virtualization-driven digitization to the computer industry.</description>
     </item>
     
     <item>
@@ -114,7 +114,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Sat, 14 Apr 2007 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2007/04/14/digitization-desktop/</guid>
-      <description>Virtualization driven desktop consolidations are very much in news now. VMware with VDI got it started but very quickly others are rallying and catching on to the bandwagon. Citrix, Microsoft and others though late to the party are not sitting idle and are quickly catching up. Recent news on the licensing changes from Microsoft to support Vista Enterprise Centralized Desktops (VECD) looks like the tipping point for adoption of desktop virtualization by mainstream.</description>
+      <description>Virtualization driven desktop consolidations are very much in the news now. VMware with VDI got it started, but others are rallying and catching on to the bandwagon very quickly. Though late to the party,Citrix, Microsoft and others are not sitting idle and are quickly catching up. Recent news on the licensing changes from Microsoft to support Vista Enterprise Centralized Desktops (VECD) looks like the tipping point for the adoption of desktop virtualization by the mainstream.</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Tue, 28 Nov 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/11/28/ibm-opensource/</guid>
-      <description>Dana Blankenhorn recently blogged about IBMs reaction to Sun’s Java plan and their approach to open source ecosystem. I think Dana summarizes it very well. IBM believes Open Source is a great technology floor on which others and even IBM builds. But as Dana points out, it is naive to treat IBM a Solutions and Services company with rest of the software industry players who are primarily software vendors like Oracle, SAP, RedHat and Microsoft.</description>
+      <description>Dana Blankenhorn recently blogged about IBMs reaction to Sun’s Java plan and their approach to the open source ecosystem. I think Dana summarizes it very well. IBM believes Open Source is a great technology floor on which others and even IBM builds. But as Dana points out, it is naive to treat IBM as a Solutions and Services company with the rest of the software industry players, primarily software vendors like Oracle, SAP, RedHat, and Microsoft.</description>
     </item>
     
     <item>
@@ -132,7 +132,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Tue, 07 Nov 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/11/07/suitetwo-intel/</guid>
-      <description>Today Intel is announcing the launch of SuiteTwo.com – a collection of web2.0 stack which is jointly developed by leading web2.0 players that include – MOVABLETYPE, SimpleFeed, Socialtext, Newsgator and Spikesource. We are announcing this at the currently ongoing Tim O’Reilly web2.0 conference at San Francisco, CA. SuiteTwo is a rich set of interconnected services that combine to improve productivity and enable high-engagement marketing. SuiteTwo includes the most trusted platforms for blogs, wikis, RSS feed reading, and RSS feed management, all under a single management interface.</description>
+      <description>Today Intel is announcing the launch of SuiteTwo.com – a collection of web2.0 stack jointly developed by leading web2.0 players that include – MOVABLETYPE, SimpleFeed, Socialtext, Newsgator and Spikesource. We are announcing this at the currently ongoing Tim O’Reilly web2.0 conference in San Francisco, CA. SuiteTwo is a rich set of interconnected services that combine to improve productivity and enable high-engagement marketing. SuiteTwo includes the most trusted platforms for blogs, wikis, RSS feed reading, and RSS feed management, all under a single management interface.</description>
     </item>
     
     <item>
@@ -141,7 +141,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Sun, 05 Nov 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/11/05/personal-computer-part2/</guid>
-      <description>Last week I talked about how the PCs existing role is being threatened by the evolving push towards services based applications. There is a widespread fear that web2.0 and SaaS will finally kill the thick Moore&amp;rsquo;s law driven PC and we all will be either working of dumb terminals or the cell phone size devices that will run all our applications. Certainly skeptics and realists are arriving and last weeks blog by John Milan talked about how Google&amp;rsquo;s desktop based application strategy is evolving.</description>
+      <description>Last week I talked about how the evolving push towards services-based applications threatens the existing PCs role. There is a widespread fear that web2.0 and SaaS will finally kill the thick Moore&amp;rsquo;s law-driven PC, and we all will be either working on dumb terminals or the cell phone size devices that will run all our applications. Skeptics and realists are arriving and last week&amp;rsquo;s blog byJohn Milan talked about how Google&amp;rsquo;s desktop based application strategy is evolving.</description>
     </item>
     
     <item>
@@ -150,7 +150,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Thu, 19 Oct 2006 11:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/10/19/personal-computers-part1/</guid>
-      <description>There is enough written about the success of the PCs, and the overall impact it has had over decades. PCs not only are attributed to increased productivity, economic gains and creation of the Information Technology business. I don’t have to delve into it very much. What I am trying to do is look at PCs and their role in the changing landscape of services based application, call it web2.0, SOA or some flavor of SaaS.</description>
+      <description>There is enough written about the PCs&#39; success and the overall impact it has had over decades. PCs are attributed to increased productivity, economic gains, and the creation of the Information Technology business. I don&amp;rsquo;t have to delve into it very much. I am looking at PCs and their role in the changing landscape of services-based applications, call it web2.0, SOA, or some flavor of SaaS. I am using the term PCs very loosely to refer PC</description>
     </item>
     
     <item>
@@ -159,7 +159,7 @@ It is very interesting to see the parallels between music industry evolution and
       <pubDate>Mon, 26 Jun 2006 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2006/06/26/intel-meet-darwin/</guid>
-      <description>Pretty well put by Geoff Moore. A great guidance and lesson for anybody trying to be a platform player.
+      <description>Pretty well put by Geoff Moore. Excellent guidance and lesson for anybody trying to be a platform player.
  Dealing with Darwin demands counter-intuitive actions, specifically when the environment has changed in some fundamental way that invalidates one’s traditional source of competitive advantage. … The competitive advantage position is changed. It remains to be seen if Intel can adapt and define competitive advantages in adjacencies.
 This past week Intel surprised analysts with the latest in a set of uncharacteristically weak performances, especially in comparison with AMD.</description>
     </item>
@@ -193,7 +193,7 @@ I am honored to be with you today at your commencement from one of the finest un
       
       <guid>https://jobigeorge.netlify.app/2005/06/02/plazes-location-app/</guid>
       <description>Simple Solution to a really difficult problem Checkout : http://beta.plazes.com/home/
-Plazes is a grassroot approach to location-aware interaction, using the local network you are connected to as location reference. Plazes allows you to share you location with the people you know and to discover people and plazes around you.
+Plazes is a grassroots approach to location-aware interaction, using the local network you are connected to as a location reference. Plazes allows you to share your location with the people you know and to discover people and plazes around you.
 Plaze = Location + Context:
 A Plaze is a physical location with a local network - private or public, wired or unwired.</description>
     </item>
@@ -204,7 +204,7 @@ A Plaze is a physical location with a local network - private or public, wired o
       <pubDate>Thu, 04 Aug 2005 11:30:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2005/06/02/amazon-patent-webservices/</guid>
-      <description>I think this is a very key patent to their approach in creating a marketplace for WebServices. Also tied in with their A9 efforts one can now not only search for the third party WebServices but also bind dynamically and pay to consume and disconnect.
+      <description>This is a crucial patent to their approach in creating a marketplace for web services. Also, tied in with their A9 efforts, one can now not only search for the third party WebServices but also bind dynamically and pay to consume and disconnect.
 Amazon.com has received a public airing of its patent application for an online marketplace where consumers search and pay for Web services. The patent application, filed last year and published Thursday by the U.</description>
     </item>
     
@@ -214,7 +214,7 @@ Amazon.com has received a public airing of its patent application for an online 
       <pubDate>Thu, 23 Jun 2005 11:37:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2005/06/23/stop-worrying-and-love/</guid>
-      <description>Douglas Adams, from the Hitchhikers fame wrote this in 1999. Still so relevant. I had a chance to listen to him in the closing keynote at JavaOne in 1999, such a great talk makes you sit back and think of perspectives not just on technology. I recommend reading the whole article. Here are some excerpts -
+      <description>Douglas Adams, from the Hitchhikers fame, wrote this in 1999. Still so relevant. I had a chance to listen to him in the closing keynote at JavaOne in 1999. He is such a good speaker, makes you sit back and think of perspectives, not just on technology. I recommend reading the whole article. Here are some excerpts -
  I suppose earlier generations had to sit through all this huffing and puffing with the invention of television, the phone, cinema, radio, the car, the bicycle, printing, the wheel and so on, but you would think we would learn the way these things work, which is this:</description>
     </item>
     
@@ -224,10 +224,9 @@ Amazon.com has received a public airing of its patent application for an online 
       <pubDate>Sun, 12 Jun 2005 11:00:00 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2005/06/02/tibco-general-interface3/</guid>
-      <description>“Rich apps changing the internet”
- Just ran across Backbase (http://www.backbase.com) a well designed thin script based U/I development framework. It uses an XML-based User Interface language and leverages XHTML, CSS and DOM. It requires no install /plugin/java/Flash and yet are very powerful. It also seem to work fine in IE and Firefox.
-They use AJAX patterns heavily and leverage the browser XML namespace support.
-Demos -  Shoping - New way to shop Portal - A new way to do responsive Portlets based U/I Google : Totally new way to experience search using Google API and using drag &amp;amp; drop to bookmark  Backbase has introduced BXML, a declarative GUI language.</description>
+      <description>I just ran across Backbase  a well-designed thin script-based U/I development framework. It uses an XML-based User Interface language and leverages XHTML, CSS, and DOM. It requires no install /plugin/java/Flash yet is very powerful. It also seems to work fine in IE and Firefox.
+They use AJAX patterns heavily and leverage the browser XML namespace support. Some demos included -
+ Shoping - New way to shop Portal - A new way to do responsive Portlets based U/I Google : Totally new way to experience search using Google API and using drag &amp;amp; drop to bookmark  Backbase has introduced BXML, a declarative GUI language.</description>
     </item>
     
     <item>
@@ -236,8 +235,7 @@ Demos -  Shoping - New way to shop Portal - A new way to do responsive Portlets 
       <pubDate>Sun, 05 Jun 2005 11:00:01 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2005/06/02/websphere-browser-framework/</guid>
-      <description>WebSphere Browser Framework (now called Faces Client) for WebSphere Studio provides a set of JSF based U/I Controls and Data Emitters for doing Rich browser applications without server round trips. It provided client-side processing coupled with a client-side data model to reduce server and network loads and user wait times. The result: richly interactive Web applications utilizing JavaScript for client-side processing and data structuring without browser or client upgrades.
-A key Browser Framework component is its structured data model that supports dynamic data manipulation &amp;ndash; meaning that data could be lately bounded and can be manipulated on the client, either by the user or through a Web service or other Web-based update mechanisms, without a page-refresh.</description>
+      <description>WebSphere Browser Framework (now called Faces Client) for WebSphere Studio provides a set of JSF based U/I Controls and Data Emitters for making Rich browser applications without server round trips. It provided client-side processing coupled with a client-side data model to reduce server and network loads and user wait times. The result: richly interactive Web applications that utilize JavaScript for client-side processing and data structuring without browser or client upgrades.</description>
     </item>
     
     <item>
@@ -249,8 +247,7 @@ A key Browser Framework component is its structured data model that supports dyn
       <description>Check out Jon Udell&amp;rsquo;s screencast showing a demo of the TIBCO General Interface, a JavaScript/DHTML framework for building Internet Apps.
   Blog 
   Screencast:  (8 mins.)
-  The tool is built using a javascript based toolkit. Very cool and looks very detailed. Waiting to play with it once it is out.
-My team did similar framework for WebSphere Application Developer 5.1.2. which was called the Browser Framework and JSF Javascript Emitters.</description>
+  The tool is built using a javascript based toolkit. Very cool and looks very detailed. I am waiting to play with it once it is out. My team did a similar framework for WebSphere Application Developer 5.1.2, called the Browser Framework and JSF Javascript Emitters.</description>
     </item>
     
     <item>

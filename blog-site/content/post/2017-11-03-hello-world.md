@@ -17,9 +17,11 @@ categories: [ Tech ]
 
 > “Yeah It's on. ”
 
-##### Original Post
 
-* Originally posted at [ Blogspot ]( ) on {{< param date >}}
+_______________
+Originally posted at 
+[ Blogspot ]() 
+on **{{< param date >}}** 
 
 
 

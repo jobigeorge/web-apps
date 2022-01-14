@@ -71,10 +71,7 @@ Stewart and his team put out several issues of The Whole Earth Catalog, and then
 Stay Hungry. Stay Foolish.
 Thank you all very much. 
 
-
-
-##### Original Post
-
-* Originally posted at [ Blogspot ](http://news-service.stanford.edu/news/2005/june15/jobs-061505.html ) on {{< param date >}}
-
-
+_______________
+Originally posted at 
+[ Blogspot ](http://news-service.stanford.edu/news/2005/june15/jobs-061505.html) 
+on **{{< param date >}}** 

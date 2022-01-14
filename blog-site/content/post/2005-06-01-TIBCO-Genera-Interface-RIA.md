@@ -23,13 +23,16 @@ Interface, a JavaScript/DHTML framework for building Internet Apps.
 
 * [Screencast: ](http://weblog.infoworld.com/udell/gems/tibco.html) (8 mins.)
 
-The tool is built using a javascript based toolkit. Very cool and looks very detailed. Waiting to play with it once it is out. 
+The tool is built using a javascript based toolkit. Very cool and looks very detailed.  I am waiting to play with it once it is out.
+My team did a similar framework for WebSphere Application Developer 5.1.2, called the Browser Framework and JSF Javascript Emitters. I will cover that in another post.
 
-My team did similar framework for WebSphere Application Developer 5.1.2. which was called the Browser Framework and JSF Javascript Emitters. I will cover that in another post. 
 
-##### Original Post
 
-* Originally posted at [ Blogspot ](http://jobig.blogspot.com/2005/06/tibco-general-interface-ria.html) on {{< param date >}}
+_______________
+Originally posted at 
+[ Blogspot ](http://jobig.blogspot.com/2005/06/tibco-general-interface-ria.html) 
+on **{{< param date >}}** 
+
 
 
 

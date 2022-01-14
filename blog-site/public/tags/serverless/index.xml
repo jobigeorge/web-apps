@@ -13,8 +13,7 @@
       <pubDate>Sun, 05 Jun 2005 11:00:01 +0000</pubDate>
       
       <guid>https://jobigeorge.netlify.app/2005/06/02/websphere-browser-framework/</guid>
-      <description>WebSphere Browser Framework (now called Faces Client) for WebSphere Studio provides a set of JSF based U/I Controls and Data Emitters for doing Rich browser applications without server round trips. It provided client-side processing coupled with a client-side data model to reduce server and network loads and user wait times. The result: richly interactive Web applications utilizing JavaScript for client-side processing and data structuring without browser or client upgrades.
-A key Browser Framework component is its structured data model that supports dynamic data manipulation &amp;ndash; meaning that data could be lately bounded and can be manipulated on the client, either by the user or through a Web service or other Web-based update mechanisms, without a page-refresh.</description>
+      <description>WebSphere Browser Framework (now called Faces Client) for WebSphere Studio provides a set of JSF based U/I Controls and Data Emitters for making Rich browser applications without server round trips. It provided client-side processing coupled with a client-side data model to reduce server and network loads and user wait times. The result: richly interactive Web applications that utilize JavaScript for client-side processing and data structuring without browser or client upgrades.</description>
     </item>
     
   </channel>
