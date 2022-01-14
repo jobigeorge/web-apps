@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IoT on Random Thoughts</title>
+    <title>IoT on Random Hitches</title>
     <link>https://jobigeorge.netlify.app/tags/iot/</link>
-    <description>Recent content in IoT on Random Thoughts</description>
+    <description>Recent content in IoT on Random Hitches</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Dec 2010 11:37:00 +0000</lastBuildDate><atom:link href="https://jobigeorge.netlify.app/tags/iot/index.xml" rel="self" type="application/rss+xml" />

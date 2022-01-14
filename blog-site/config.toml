@@ -1,5 +1,5 @@
 baseurl = "https://jobigeorge.netlify.app"
-title = "Random Thoughts"
+title = "Random Hitches"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,10 +14,10 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/blog-background.jpeg"
-  SEOTitle = " Jobi George Blog "
+  SEOTitle = " Jobi George Blog - Random Hitches Through Technology & Business Landscape"
   description = "Tech, Business, Strategy"
   keyword = "Blog, Web, Strategy, Software, SaaS, Cloud, Startup, Partnerships,Biology"
-  slogan = " Jobi George Blog "
+  slogan = " Through Tech & Biz Landscape "
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Sorry :("
@@ -35,6 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "e81c9baa007bf7b32de916cc028bdc59"
 
   # Sidebar settings
+
   sidebar_about_description = "Hanging around at the intersection of technology, business and strategy. Love learning what users are doing and how the ecosystem is changing . Trying to decipher where all these breadcrumbs lead."
   sidebar_avatar = "img/jobig.jpeg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
